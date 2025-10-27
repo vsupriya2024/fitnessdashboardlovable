@@ -1,1 +1,1 @@
-# fitnessdashboardlovable
+# fit-pulse-view-lovable
